@@ -1,0 +1,2 @@
+perception:task1:task2
+-DCATKIN_DEVEL_PREFIX=/home/vboxuser/Desktop/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vboxuser/Desktop/ros_ws/install -G Unix Makefiles
